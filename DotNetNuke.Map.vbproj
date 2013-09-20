@@ -220,7 +220,7 @@
       <DependentUpon>MapSource.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Content Include="checked.gif" />
+    <Content Include="checked2.gif" />
     <Content Include="CPL1.gif" />
     <Content Include="CPL2.gif" />
     <Content Include="CPL3.gif" />
