@@ -121,7 +121,6 @@
     </Compile>
     <Compile Include="Google.Geolocator.Admin.ascx.vb">
       <DependentUpon>Google.Geolocator.Admin.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Content Include="Google.Geolocator.Admin.ascx">
       <SubType>ASPXCodeBehind</SubType>

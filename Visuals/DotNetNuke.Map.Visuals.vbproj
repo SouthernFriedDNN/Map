@@ -149,39 +149,30 @@
     </Compile>
     <Compile Include="Google.Directory.Admin.ascx.vb">
       <DependentUpon>Google.Directory.Admin.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Google.Directory.ascx.vb">
       <DependentUpon>Google.Directory.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Google.Positional.Admin.ascx.vb">
       <DependentUpon>Google.Positional.Admin.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Google.Positional.ascx.vb">
       <DependentUpon>Google.Positional.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Google.Standard.Admin.ascx.vb">
       <DependentUpon>Google.Standard.Admin.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Google.Standard.ascx.vb">
       <DependentUpon>Google.Standard.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Google.Timelapse.Admin.ascx.vb">
       <DependentUpon>Google.Timelapse.Admin.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Google.Timelapse.ascx.vb">
       <DependentUpon>Google.Timelapse.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Standard.ascx.vb">
       <DependentUpon>Standard.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Content Include="back.gif" />
     <Content Include="Dotnetnuke.Map.Visuals.js">
