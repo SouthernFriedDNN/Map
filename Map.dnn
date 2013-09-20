@@ -6,7 +6,7 @@
       <friendlyname>Map</friendlyname>
       <foldername>Map</foldername>
       <modulename>DNN_Map</modulename>
-      <description>The core map module for DotNetNuke.</description>
+      <description>The core map module for DotNetNuke. the old way!!!!</description>
       <version>01.00.09</version>
       <businesscontrollerclass>DotNetNuke.Modules.Map.Components.MapModuleBase, DotNetNuke.Modules.Map</businesscontrollerclass>
       <resourcefile>Resources.zip</resourcefile>
