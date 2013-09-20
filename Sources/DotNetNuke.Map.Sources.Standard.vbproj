@@ -139,11 +139,9 @@
     </Compile>
     <Compile Include="Standard.Admin.ascx.vb">
       <DependentUpon>Standard.Admin.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Standard.Data.ascx.vb">
       <DependentUpon>Standard.Data.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Standard.vb">
       <SubType>Code</SubType>
